@@ -18,4 +18,5 @@ while (!(xnp1 < Math.Pow(10, -3)))
 }
 Console.WriteLine();
 Console.WriteLine(xn);
-Console.WriteLine(xnp1);
+Console.WriteLine("btw");
+//l like 
